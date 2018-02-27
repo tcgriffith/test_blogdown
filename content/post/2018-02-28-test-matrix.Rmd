@@ -1,0 +1,19 @@
+---
+title: test matrix
+author: tc
+date: '2018-02-28'
+slug: test-matrix
+categories:
+  - R
+tags:
+  - test
+---
+
+## test it
+
+$$
+f(x)=(\begin{matrix}
+n\\
+x\\
+\end{matrix})p^x(1-p)^{n-x}
+$$
